@@ -1,0 +1,16 @@
+##Verify your Kubernetes cluster
+
+kubectl get nodes
+
+##Run a familiar application
+
+kubectl apply -f deploy.yaml
+kubectl get pods 
+kubectl get svc
+
+###to delete deployment and service
+
+ kubectl delete -f deploy.yaml
+
+
+

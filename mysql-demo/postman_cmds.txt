@@ -1,0 +1,6 @@
+
+Select the GET
+http://localhost:8080/demo/all
+
+select the POST
+http://localhost:8080/demo/add?name=bbb&email=bbb@aa.edu

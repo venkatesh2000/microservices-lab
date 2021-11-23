@@ -1,0 +1,4 @@
+E:\SPRING_BOOT_2021\spring-boot-test\target\surefire-reports
+see .DUMP file
+
+donot assign new server port in application.propoerties. Let it be default 8080 
